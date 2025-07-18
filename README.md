@@ -76,13 +76,6 @@ curl -X POST http://localhost:8000/predict \
   -d '{"responses": ["I go out or call friends", "Plan everything carefully", ...]}'
 ```
 
-## Changes from Previous Version
-
-### Removed Components
-- ✅ **Ollama Integration**: Removed local LLM dependency for faster startup
-- ✅ **Complex Dependencies**: Simplified requirements to core ML libraries
-- ✅ **External API Calls**: Eliminated network dependencies
-
 ### Simplified Features
 - ✅ **Predefined Explanations**: Fast, consistent personality type descriptions
 - ✅ **Streamlined UI**: Single-page application with embedded interface
