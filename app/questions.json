@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "How do you typically recharge after a long day?",
+    "options": [
+      { "text": "I go out or call friends — I need people.", "trait": "E" },
+      { "text": "I like to unwind alone with a hobby or show.", "trait": "I" },
+      { "text": "Depends on the mood; I can go either way.", "trait": "X" }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "When working on a project, you prefer to:",
+    "options": [
+      { "text": "Jump in and figure things out as you go.", "trait": "P" },
+      { "text": "Plan everything carefully before starting.", "trait": "J" },
+      { "text": "Have a rough plan, but keep it flexible.", "trait": "X" }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What do you rely on more when making decisions?",
+    "options": [
+      { "text": "Logic, facts, and objective data.", "trait": "T" },
+      { "text": "Values, feelings, and personal impact.", "trait": "F" },
+      { "text": "Both equally, depending on the situation.", "trait": "X" }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "You are more drawn to jobs that involve:",
+    "options": [
+      { "text": "Helping others and creating harmony.", "trait": "F" },
+      { "text": "Solving problems and optimizing systems.", "trait": "T" },
+      { "text": "Managing people or organizing work.", "trait": "J" }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "When someone tells you a story, you:",
+    "options": [
+      { "text": "Focus on the facts and what actually happened.", "trait": "S" },
+      { "text": "Interpret the deeper meaning and patterns.", "trait": "N" },
+      { "text": "Relate it to your own experience.", "trait": "X" }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "During group discussions, you usually:",
+    "options": [
+      { "text": "Take the lead and share your ideas freely.", "trait": "E" },
+      { "text": "Listen more and speak when you feel ready.", "trait": "I" },
+      { "text": "Observe and jump in when necessary.", "trait": "X" }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Which best describes your time management style?",
+    "options": [
+      { "text": "I finish early and like crossing things off my list.", "trait": "J" },
+      { "text": "I work in bursts and feel energized under pressure.", "trait": "P" },
+      { "text": "I schedule the important stuff but wing the rest.", "trait": "X" }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Which statement resonates most with your personality?",
+    "options": [
+      { "text": "I see the world as it is — concrete and observable.", "trait": "S" },
+      { "text": "I see possibilities and connections everywhere.", "trait": "N" },
+      { "text": "I switch between detail and big-picture thinking.", "trait": "X" }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "In a conflict, you tend to:",
+    "options": [
+      { "text": "Address the issue directly and look for resolution.", "trait": "T" },
+      { "text": "Consider people’s feelings and avoid hurt.", "trait": "F" },
+      { "text": "Stay neutral and mediate both sides.", "trait": "X" }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "When attending events, you usually:",
+    "options": [
+      { "text": "Feel energized being around new people.", "trait": "E" },
+      { "text": "Feel drained and need alone time after.", "trait": "I" },
+      { "text": "Enjoy it in moderation, but not too often.", "trait": "X" }
+    ]
+  }
+]
